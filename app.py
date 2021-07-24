@@ -13,7 +13,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-directory = getcwd()
+
 
 
 # # Import the required Pickle files
